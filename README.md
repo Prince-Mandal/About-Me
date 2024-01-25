@@ -1,9 +1,7 @@
 Greeting everyone!👋
 I thrive on transforming raw data into actionable insights that drive meaningful change.
 
-As a sophomore Data Science prodigy at HSNC University, I'm deeply immersed in the captivating world of extracting gems of knowledge from data. My passion for this field is fueled by a relentless thirst for learning and a genuine desire to utilize my skills to make a real-world impact.
-
- Here is an addition highlighting the value you provide based on your skills and experience:
+As a sophomore in Data Science and Business Analytics at HSNC University, I'm deeply immersed in the captivating world of extracting gems of knowledge from data. My passion for this field is fueled by a relentless thirst for learning and a genuine desire to utilize my skills to make a real-world impact.
 
 Skills
 
