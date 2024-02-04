@@ -10,9 +10,13 @@ I thrive on transforming raw data into actionable insights that drive meaningful
 Skills
 
 → Data Analytics: Expert in turning messy data into clear insights using Power BI, Tableau, and Excel (formulas, formatting, pivots); ability to uncover valuable business insights
+
 → Statistical Modeling: Clustering, regression, forecasting, hypothesis testing; expertise to predict trends and patterns
+
 → Programming: Python (ML libraries like TensorFlow), R (tidy), web scraping; skills to build algorithms automating analysis
+
 → Databases: MySQL, SQL Server, SPSS; capability to easily navigate data systems
+
 → Communication: Data storytelling, collaborating cross-functionally, leading workshops; ability to communicate analytics findings  
 
 Highlights
