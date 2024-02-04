@@ -7,7 +7,7 @@ I thrive on transforming raw data into actionable insights that drive meaningful
 
 ➡️ I pioneered interactive cricket dashboards, providing 40% more visibility into important performance indicators through innovative visualizations. This serves as a data-driven decision-making framework for executives. Metvy Company also provided me with a hotel analysis project to help find insights using my SQL and Python expertise. I used sentiment analysis on 500k reviews to identify factors that may enhance guest delight by 89%.
 
-Skills
+➡️ Skills
 
 → Data Analytics: Expert in turning messy data into clear insights using Power BI, Tableau, and Excel (formulas, formatting, pivots); ability to uncover valuable business insights
 
@@ -19,17 +19,24 @@ Skills
 
 → Communication: Data storytelling, collaborating cross-functionally, leading workshops; ability to communicate analytics findings  
 
-Highlights
+➡️ Highlights
 
 → Secured ₹1.5 Lakhs in sponsors for IIMUN event in 2 days; demonstrated strong partnership-building skills
+
 → Led 30+ schools/20+ colleges to top parade and cadet awards at Nashik Camp; proven leadership ability
+
 → Expanded BD by 40% in 2 months at Metvy via networking and social selling; increased revenue through analytics and relationship building  
 
-I provide value through the following:
+➡️ I provide value through the following:
+
 → Uncovering actionable and relevant business insights from data
-→ Predicting future trends and patterns to inform strategy  
+
+→ Predicting future trends and patterns to inform strategy 
+
 → Automating and streamlining analysis through algorithms
+
 → Identifying optimization opportunities through statistical modeling
+
 → Communicating analytical findings clearly to drive business decisions
 
 Want to connect? Reach out on LinkedIn @ princemandal324@gmail.com
