@@ -1,7 +1,11 @@
 Greeting everyone!👋
 I thrive on transforming raw data into actionable insights that drive meaningful change.
 
-As a sophomore in Data Science and Business Analytics at HSNC University, I'm deeply immersed in the captivating world of extracting gems of knowledge from data. My passion for this field is fueled by a relentless thirst for learning and a genuine desire to utilize my skills to make a real-world impact.
+I always wondered why some businesses thrived while others failed. I realized the secret ingredient is data. This curiosity sparked my passion for extracting powerful insights from numbers that drive growth. 
+
+Currently diving deeper into data-driven thinking by pursuing a B.Sc in 𝐃𝐀𝐓𝐀 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 𝐀𝐍𝐃 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 𝐚𝐭 𝐇𝐒𝐍𝐂 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲
+
+I pioneered interactive cricket dashboards, providing 40% more visibility into important performance indicators through innovative visualizations. This serves as a data-driven decision-making framework for executives. Metvy Company also provided me with a hotel analysis project to help find insights using my SQL and Python expertise. I used sentiment analysis on 500k reviews to identify factors that may enhance guest delight by 89%.
 
 Skills
 
@@ -25,3 +29,4 @@ I provide value through the following:
 - Communicating analytical findings clearly to drive business decisions
 
 Want to connect? Reach out on LinkedIn @ princemandal324@gmail.com
+
