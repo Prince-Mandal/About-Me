@@ -3,7 +3,7 @@ Currently pursuing a B.Sc. in Data Science and Business Analytics at HSNC Univer
 
 I am an expert in advanced data analytics, statistical modelling, and programming. I am highly proficient in tools such as Power BI, Tableau, Python, and SQL. I have successfully led projects that have significantly improved business visibility and customer satisfaction. I conducted a sentiment analysis on 500,000 hotel reviews and identified factors that could enhance guest delight by 89%.
 
-I offer:
+→ I offer:
 
 I use cutting-edge data analysis techniques to uncover valuable business insights.
 
@@ -15,8 +15,8 @@ I communicate complex data findings clearly and compellingly, enabling informed 
 
 I have a proven track record of leadership and revenue growth through data-driven strategies.
 
-I can help you optimize operations, enhance customer experiences, or drive business growth through data. 
+➡️ I can help you optimize operations, enhance customer experiences, or drive business growth through data. 
 
-Let's connect and explore how we can leverage the power of data to achieve your business objectives.
+✔️ Let's connect and explore how we can leverage the power of data to achieve your business objectives.
 
 Mail me: princemandal324@gmail.com
