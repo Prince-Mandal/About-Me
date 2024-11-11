@@ -1,7 +1,7 @@
-I am a data-driven business analytics professional with a passion for transforming complex datasets into actionable insights that drive strategic decision-making and business growth. 
-Currently pursuing a B.Sc. in Data Science and Business Analytics at HSNC University, I combine academic knowledge with hands-on experience to deliver impactful results.
+I am a data-driven business analytics professional passionate about transforming complex datasets into actionable insights that drive strategic decision-making and business growth. 
+I am pursuing a B.Sc. in Data Science and Business Analytics at HSNC University. I combine academic knowledge with hands-on experience to deliver impactful results.
 
-I am an expert in advanced data analytics, statistical modelling, and programming. I am highly proficient in tools such as Power BI, Tableau, Python, and SQL. I have successfully led projects that have significantly improved business visibility and customer satisfaction. I conducted a sentiment analysis on 500,000 hotel reviews and identified factors that could enhance guest delight by 89%.
+I am an expert in advanced data analytics, statistical modelling, and programming. I am highly proficient in Power BI, Tableau, Python, and SQL tools. I have successfully led projects that have significantly improved business visibility and customer satisfaction. I conducted a sentiment analysis on 500,000 hotel reviews and identified factors that could enhance guest delight by 89%.
 
 → I offer:
 
